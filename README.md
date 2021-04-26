@@ -22,6 +22,6 @@ Step4 : 로또 (수동) - [코드 리뷰](https://github.com/next-step/java-lott
 ## 1주차 - 자동차 경주 게임 만들기
 Step1 : 학습 테스트 실습 - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1821)  
 Step2 : 문자열 계산기 - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1835)  
-Step3 : 자동차 경주 - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1884)
+Step3 : 자동차 경주 - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1884)  
 Step4 : 자동차 경주(우승자) - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1934)  
 Step5 : 자동차 경주(리팩토링) - [코드 리뷰](https://github.com/next-step/java-racingcar/pull/1963)  
