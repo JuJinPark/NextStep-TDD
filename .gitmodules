@@ -1,0 +1,16 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = https://github.com/JuJinPark/java-racingcar.git
+	branch = jujinpark
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/JuJinPark/java-lotto.git
+	branch = jujinpark
+[submodule "java-ladder"]
+	path = java-ladder
+	url = https://github.com/JuJinPark/java-ladder.git
+	branch = jujinpark
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/JuJinPark/java-bowling.git
+	branch = jujinpark
